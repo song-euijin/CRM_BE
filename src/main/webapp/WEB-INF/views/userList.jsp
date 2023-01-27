@@ -20,7 +20,7 @@ request.setCharacterEncoding("utf-8");
 
 	<!-- ======= 메인 공간!! ======= -->
 	<main id="main" class="main">	
-		<h2>수정수정</h2>
+		<h2>이걸로 만족합니다!</h2>
 
 		<table>
 			<tr>
